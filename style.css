@@ -1,0 +1,41 @@
+div{
+    border: 2px solid black;
+    width: 550px;
+    padding: 20px;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+
+#companyname,#departmentname,#designationname,#name,#fathername,#mothername,#location,#number,#email{
+    width: 300px;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+label {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+form{
+    margin-left: 20px;
+}
+
+#submit{
+    margin-left: 100px;
+    width: 150px;
+    padding: 6px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #f4511e;
+    color: white;
+    border-radius: 20px;
+    border: 1px solid #f4511e;
+}
+
+#submit:hover {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+
